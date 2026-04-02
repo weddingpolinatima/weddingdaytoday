@@ -1,8 +1,8 @@
 # weddingdaytoday
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="UTF-8">
+#<!DOCTYPE html>
+#<html lang="ru">
+#<head>
+#<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Полина & Тимофей · 22 августа 2026</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
